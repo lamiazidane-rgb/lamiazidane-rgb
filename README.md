@@ -9,8 +9,18 @@
 Université de Béjaïa · Algeria
 
 <a href="mailto:lamiazidane213@gmail.com">Email</a> ·
-<a href="https://lamia-byte.github.io/portfolio/">Portfolio</a> ·
-<a href="https://github.com/lamia-byte">GitHub</a>
+<a href="https://lamia-byte.github.io/portfilio/">Portfolio</a> ·
+
+<a href="https://github.com/lamiazidane-rgb">GitHub</a>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lamiazidane-rgb&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiazidane-rgb&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lamiazidane-rgb&theme=transparent&hide_border=true" />
+</p>
 
 </div>
 
