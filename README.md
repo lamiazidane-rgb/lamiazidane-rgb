@@ -21,21 +21,18 @@ Université de Béjaïa · Algeria
 - Software Engineering student at Université de Béjaïa.
 - Interested in software development, databases, data analysis and AI.
 - Building academic and personal projects to strengthen my technical skills.
-- Currently working on an intelligent disaster management platform with local AI.
-
 ## Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts,html,css&perline=9" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,tailwind,mysql,mongodb,sqlite,oracle&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,tailwind,mysql,mongodboracle&perline=9" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode,idea&perline=7" />
 </p>
 
 ## Featured Projects
 
-- **Disaster Management Platform** — Crisis management with local AI.
 - **EduSphere** — Training center management application using PHP MVC and MySQL.
 - **Student Performance Analyzer** — Student results analysis and visualization using Python, Pandas and Matplotlib.
 - **Car Rental Platform** — Web application developed for a real client.
